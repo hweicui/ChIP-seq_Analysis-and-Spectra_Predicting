@@ -1,6 +1,8 @@
 # ChIP-seq_Analysis-and-Spectra_Predicting
 ## ChIP-seq Analysis
 
+ChIP-process.sh 使用MACS方法对ChIP-seq数据进行分析的bash文件
+
 get_bam.sh 得到.bam文件并对读入的序列进行检查
 
 xls_processor.sh  
