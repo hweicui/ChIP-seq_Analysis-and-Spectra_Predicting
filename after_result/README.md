@@ -20,7 +20,7 @@
   - 如果需要序列信息，使用命令
 
     ```bash
-    bedtools getfasta -fi ./BioData/hg19/chr22.fa -bed seq_index.bed -fo output.fa
+    bedtools getfasta -fi reference_genome_file_name.fa -bed seq_index.bed -fo output.fa
     ```
 
     
