@@ -1,1 +1,1 @@
-# ChIP-seq_analysis
+# ChIP-seq_Analysis-and-Spectra_Predicting
