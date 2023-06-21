@@ -15,7 +15,7 @@ RUN conda update -y conda \
     && conda update numpy \
     && conda update matplotlib \
     && conda update sys \
-    && conda update re \
+    && conda update re
 
 
 RUN wget https://github.com/pFindStudio/pDeep/archive/refs/heads/master.zip \
